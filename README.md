@@ -1,12 +1,12 @@
 # 🚀 Guía Completa: Deployment y Simulación de Cadena de Frío
 
 ## 📋 Índice
-1. [Instalación de Dependencias]()
-2. [Configuración de Anvil]()
-3. [Compilación del Contrato]()
-4. [Deployment Automatizado]()
-5. [Ejecución del Simulador]()
-6. [Troubleshooting]()
+1. Instalación de Dependencias
+2. Configuración de Anvil
+3. Compilación del Contrato
+4. Deployment Automatizado
+5. Ejecución del Simulador
+
 
 ---
 
