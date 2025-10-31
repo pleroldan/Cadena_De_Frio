@@ -24,3 +24,18 @@ Antes de comenzar, asegurate de tener:
 ```bash
 git clone https://github.com/pleroldan/Cadena_De_Frio.git
 cd Cadena_De_Frio
+``` 
+### 2. Crear entorno virtual (opcional pero recomendado)
+```bash
+python -m venv venv
+source venv/bin/activate  # En Linux/macOS
+venv\Scripts\activate     # En Windows
+```
+
+### 3. Instalar dependencias  
+
+```bash
+pip install -r requirements.txt
+```
+
+
