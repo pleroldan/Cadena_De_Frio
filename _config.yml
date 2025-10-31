@@ -1,0 +1,10 @@
+title: "Cadena de Frío"
+description: "Monitoreo embebido y trazabilidad con IoT"
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
+minimal_mistakes_skin: "air"
+markdown: kramdown
+permalink: /:title/
+paginate: 5
+paginate_path: /page:num/
